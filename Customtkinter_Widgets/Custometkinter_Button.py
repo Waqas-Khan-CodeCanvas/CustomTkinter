@@ -35,13 +35,12 @@ methods:
     button.invoke()                     # run command manually
 """
 
-
-import customtkinter
+from customtkinter import *
 
 def button_event():
         print("Button Pressed!")
 
-app = customtkinter.CTk()
-btn = customtkinter.CTkButton(app, text="Click Me", command=button_event)
+app =CTk()
+btn = CTkButton(app, text="Click Me", command=button_event)
 btn.pack(padx=20, pady=20)
 app.mainloop()
