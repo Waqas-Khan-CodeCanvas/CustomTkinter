@@ -5,7 +5,7 @@ Widget: CTkSegmentedButton
         - A segmented button widget in CustomTkinter that allows users to select **one option from multiple segments**.
         - Visually displays a row of connected buttons, with one active (selected) segment at a time.
         - Ideal for toggling between modes, filters, or categories.
-        - Can be controlled with or without a `tkinter.StringVar` for dynamic value tracking.
+        - Can be controlled with or without a   tkinter.StringVar   for dynamic value tracking.
 
     arguments:
         master                      → parent widget (CTk, CTkFrame, Frame)
@@ -116,10 +116,10 @@ app.mainloop()
 
 """
     usage notes:
-        -> Use `.set("Value")` to programmatically select a segment.
-        -> Use `.get()` to retrieve the currently selected segment.
-        -> Always ensure that `values` list is **not empty**.
-        -> You can bind a `StringVar` to sync value changes across widgets.
+        -> Use   .set("Value")   to programmatically select a segment.
+        -> Use   .get()   to retrieve the currently selected segment.
+        -> Always ensure that   values   list is **not empty**.
+        -> You can bind a   StringVar   to sync value changes across widgets.
         -> Customize colors for selected/unselected states to match theme.
-        -> Disable interaction with `state="disabled"` when needed.
+        -> Disable interaction with   state="disabled"   when needed.
 """
