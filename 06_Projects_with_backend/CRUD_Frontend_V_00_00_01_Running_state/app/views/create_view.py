@@ -25,5 +25,4 @@ class CreateView(ctk.CTkFrame):
             "name": self.name_entry.get(),
             "price": self.price_entry.get(),
         }
-        ItemsController.create_item(payload, lambda: self.router.navigate("main"))
-
+        ItemsController.create_item(payload, callback=lambda: self.router.navigate("main"))

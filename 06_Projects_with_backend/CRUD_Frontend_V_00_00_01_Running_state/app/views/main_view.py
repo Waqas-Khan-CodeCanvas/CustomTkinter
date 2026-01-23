@@ -24,3 +24,5 @@ class MainView(ctk.CTkFrame):
                 width=200,
                 command=lambda r=route: self.router.navigate(r),
             ).pack(pady=10)
+            
+        
