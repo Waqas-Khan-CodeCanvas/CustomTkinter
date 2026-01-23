@@ -8,6 +8,9 @@ from app.core.theme import apply_theme
 class Application(ctk.CTk):
     def __init__(self):
         super().__init__()
+        
+        ctk.set_appearance_mode("System")
+        ctk.set_default_color_theme("blue")
 
         self.title("CRUD Desktop App")
         self.geometry("1000x600")
