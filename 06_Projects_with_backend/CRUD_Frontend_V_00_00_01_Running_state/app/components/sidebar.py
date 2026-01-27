@@ -26,6 +26,7 @@ class Sidebar(ctk.CTkFrame):
 
         self.add_button("Main", "main")
         self.add_button("Create Item", "create")
+        self.add_button("Read Item", "read")
         self.add_button("Update Item", "update")
         self.add_button("Delete Item", "delete")
 

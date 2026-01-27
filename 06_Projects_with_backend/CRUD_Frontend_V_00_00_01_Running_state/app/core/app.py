@@ -14,7 +14,7 @@ class Application(ctk.CTk):
 
         self.title("CRUD Desktop App")
         self.geometry("1000x600")
-        self.minsize(900, 550)
+        self.minsize(200, 250)
 
         apply_theme()
 
