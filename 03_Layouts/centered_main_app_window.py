@@ -2,7 +2,6 @@ from customtkinter import *
 
 win = CTk()
 win.resizable(False, False)
-win
 
 app_screen_with = win.winfo_screenwidth() +10
 app_screen_height = win.winfo_screenheight()
