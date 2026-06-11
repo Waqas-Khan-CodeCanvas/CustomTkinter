@@ -56,4 +56,35 @@ def open_window(self):
     def close_popup(self):
         self.popup.destroy()
         
-       
+        
+        
+# STEP 4 — Professional Pattern (REAL APPS USE THIS)
+# Instead of random functions, we structure windows like this:
+
+class PopupWindow(ctk.CTkToplevel):
+    def __init__(self, master):
+        super().__init__(master)
+
+        self.title("Popup")
+        self.geometry("300x200")
+
+        ctk.CTkLabel(self, text="Reusable Window Class").pack(pady=20)
+
+def open_window(self):
+    if hasattr(self, "popup") and self.popup.winfo_exists():
+        self.popup.focus()
+    else:
+        self.popup = PopupWindow(self)
+        
+
+# structure         
+# App (CTk root)
+# │
+# ├── Main UI
+# │
+# ├── Toplevel Window 1 (Settings)
+# ├── Toplevel Window 2 (Profile)
+# └── Toplevel Window 3 (Help)
+
+
+
