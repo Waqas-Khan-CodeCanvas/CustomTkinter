@@ -88,3 +88,10 @@ def open_window(self):
 
 
 
+# Common Mistakes (avoid these)
+
+#  Creating multiple CTk() windows
+#  Not storing reference to Toplevel
+#  Opening duplicate windows endlessly
+#  Not handling close events
+#  Mixing UI logic everywhere
