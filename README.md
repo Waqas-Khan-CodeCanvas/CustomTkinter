@@ -5,12 +5,6 @@
 
 # ⚡ CustomTkinter UI Studio
 
-> Modern, minimal, and production-inspired desktop UI designs built with Python CustomTkinter.
-
-
-
-# ⚡ CustomTkinter UI Studio
-
 <div align="center">
 
 ### Modern Desktop UI Engineering with Python
