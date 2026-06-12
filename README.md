@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="assets/banner.png" alt="CustomTkinter UI Studio Banner" width="100%">
+</p>
+
+# ⚡ CustomTkinter UI Studio
+
+> Modern, minimal, and production-inspired desktop UI designs built with Python CustomTkinter.
+
+
+
 # ⚡ CustomTkinter UI Studio
 
 <div align="center">
