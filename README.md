@@ -3,7 +3,7 @@
   <img src="assets/banner.png" alt="CustomTkinter UI Studio Banner" width="100%">
 </p>
 
-# ⚡ CustomTkinter UI Studio
+<div><h1 align="center">⚡ CustomTkinter UI Studio</h1></div> 
 
 <div align="center">
 
