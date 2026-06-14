@@ -293,6 +293,8 @@ Focused on creating modern desktop applications, reusable software systems, and 
 https://github.com/Waqas-Khan-CodeCanvas
 **Linkedin**
 https://www.linkedin.com/in/waqaskhan-dev/
+**leetcode**
+https://leetcode.com/u/waqas_khan_dev/
 
 ---
 
