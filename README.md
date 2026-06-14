@@ -291,6 +291,8 @@ Focused on creating modern desktop applications, reusable software systems, and 
 
 **GitHub**
 https://github.com/Waqas-Khan-CodeCanvas
+**Linkedin**
+https://www.linkedin.com/in/waqaskhan-dev/
 
 ---
 
