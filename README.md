@@ -289,13 +289,13 @@ Python Developer • UI Engineer • Open Source Builder
 
 Focused on creating modern desktop applications, reusable software systems, and developer-friendly tools.
 
-**GitHub**
-https://github.com/Waqas-Khan-CodeCanvas
-**Linkedin**
-https://www.linkedin.com/in/waqaskhan-dev/
-**leetcode**
-https://leetcode.com/u/waqas_khan_dev/
-**medium**
+**GitHub** : 
+https://github.com/Waqas-Khan-CodeCanvas <br>
+**Linkedin** : 
+https://www.linkedin.com/in/waqaskhan-dev/ <br>
+**leetcode** : 
+https://leetcode.com/u/waqas_khan_dev/ <br>
+**medium** : 
 https://medium.com/@waqaskhan.dev/about
 
 ---
