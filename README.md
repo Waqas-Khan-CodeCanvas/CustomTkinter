@@ -295,6 +295,8 @@ https://github.com/Waqas-Khan-CodeCanvas
 https://www.linkedin.com/in/waqaskhan-dev/
 **leetcode**
 https://leetcode.com/u/waqas_khan_dev/
+**medium**
+https://medium.com/@waqaskhan.dev/about
 
 ---
 
